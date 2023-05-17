@@ -1,6 +1,6 @@
 ﻿# PSES (Personal Safety in Emergency Situation)
  
-Introducing the Personal Safety app, a comprehensive solution designed to provide individuals with peace of mind and support during emergency situations. This powerful app combines multiple features, including an emergency message system, emergency calls, encrypted messaging, and emergency education, to ensure personal safety and preparedness in times of need.
+Introducing the PSES app, a comprehensive solution designed to provide individuals with peace of mind and support during emergency situations. This powerful app combines multiple features, including an emergency message system, emergency calls, encrypted messaging, and emergency education, to ensure personal safety and preparedness in times of need.
 
 Key Features:
 
