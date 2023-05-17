@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable-v24/ctr_bg2.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable-v24/custom_input.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable-v24/edittext_background.xml" value="0.2235" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable-v24/ic_baseline_arrow_back_ios_24.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.243" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/background1.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/background2.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/background3.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/encryptedmessage_img_background.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/general_img_background.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/gradient_background.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/gradient_background2.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/gradient_background3.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/gradient_background4.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/grocery_img_background.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.244" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/ic_baseline_qr_code_24.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/ic_baseline_quickreply_24.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/ic_call.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/ic_launcher_background.xml" value="0.243" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/item_selector.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/layout_bg.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/round_corner.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/drawable/top_background_orange.xml" value="0.2555" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_accident.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_bottom_bar.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_bottom_nav.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_disaster.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_emergency_call.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_emergency_call2.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_emergency_dial.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_emergency_education.xml" value="0.264" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_emergency_information.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_emergency_message.xml" value="0.23802083333333332" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_encrypted_message.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_facebook_auth.xml" value="0.1" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_fingerprint.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_google_sign_in.xml" value="0.10925925925925926" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_login.xml" value="0.21784420289855072" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_pandemic.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_signup.xml" value="0.21784420289855072" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_splash_screen.xml" value="0.21784420289855072" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_verify_otp.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/activity_violence.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/fragment_information.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/layout/item_user.xml" value="0.23802083333333332" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/menu/item_menu.xml" value="0.25" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.243" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.243" />
+        <entry key="..\:/Apk 2/PSES/app/src/main/res/xml/paths.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

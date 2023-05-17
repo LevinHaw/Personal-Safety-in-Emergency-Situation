@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PSES</string>
+
+    <string name="qr_code">qr_code</string>
+    <string name="generate_qr_code">Generate QR Code</string>
+
+    <string name="_1_accident"><a href="https://firstaidforlife.org.uk/accidents-road-help/">https://firstaidforlife.org.uk/accidents-road-help/ </a> </string>
+    <string name="_2_accident"><a href="https://www.cooperators.ca/en/Resources/stay-safe/safety-at-work.aspx">https://www.cooperators.ca/en/Resources/stay-safe/safety-at-work.aspx </a> </string>
+
+    <string name="_1_disaster"><a href="https://www.humanitarianlibrary.org/sites/default/files/2013/07/DisasterPreventionPreparedness.pdf">https://www.humanitarianlibrary.org/sites/default/files/2013/07/DisasterPreventionPreparedness.pdf </a> </string>
+    <string name="_2_disaster"><a href="https://www.travelers.com/resources/weather/emergency-preparedness/disaster-preparedness-tips">https://www.travelers.com/resources/weather/emergency-preparedness/disaster-preparedness-tips </a> </string>
+    <string name="_3_disaster"><a href="https://www.samhsa.gov/find-help/disaster-distress-helpline/disaster-types">https://www.samhsa.gov/find-help/disaster-distress-helpline/disaster-types </a> </string>
+
+    <string name="_1_pandemic"><a href="https://www.weston.org/420/Types-of-Emergencies">https://www.weston.org/420/Types-of-Emergencies </a> </string>
+    <string name="_2_pandemic"><a href="https://www.hsph.harvard.edu/c-change/news/preventingfuturepandemics/">https://www.hsph.harvard.edu/c-change/news/preventingfuturepandemics/ </a> </string>
+    <string name="_3_pandemic"><a href="https://www.health.pa.gov/topics/disease/Pages/Pandemic.aspx">https://www.health.pa.gov/topics/disease/Pages/Pandemic.aspx </a> </string>
+    <string name="_4_pandemic"><a href="https://www.ready.gov/pandemic">https://www.ready.gov/pandemic </a> </string>
+
+    <string name="_1_violence"><a href="https://www.britannica.com/topic/violence">https://www.britannica.com/topic/violence </a> </string>
+    <string name="_2_violence"><a href="https://www.saferspaces.org.za/understand/entry/what-is-violence">https://www.saferspaces.org.za/understand/entry/what-is-violence </a> </string>
+    <string name="_3_violence"><a href="https://blink.ucsd.edu/safety/emergencies/preparedness/guide.html#Acts-of-violence">https://blink.ucsd.edu/safety/emergencies/preparedness/guide.html#Acts-of-violence </a> </string>
+
+
+</resources>
